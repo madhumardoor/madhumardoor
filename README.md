@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&duration=3000&pause=800&color=4A9B8E&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Building+pipelines+that+run+themselves;LangChain+%C2%B7+RAG+%C2%B7+n8n+%C2%B7+Gemini+%C2%B7+Groq;PostgreSQL+%2F+PostGIS+%C2%B7+ETL+%C2%B7+Web+Scraping;350K%2B+records+automated+%C2%B7+90%25+manual+work+cut" alt="Typing SVG" />
 
-### Hi, I'm Madhu 👋 — AI Engineer & Data Engineer based in Bengaluru, India
+### Hi, I'm Madhu 👋 - AI Engineer & Data Engineer based in Bengaluru, India
 
-I build LLM-powered automation systems, ETL pipelines, and geospatial data layers that turn messy real-world data into structured, production-ready systems — with almost no manual touch.
+I build LLM-powered automation and data engineering systems that transform complex, unstructured real-world data into reliable, production-ready solutions with minimal manual intervention. My work combines LLMs, RAG, LangChain, Python, n8n automation, ETL pipelines, APIs, databases, and geospatial technologies to automate data extraction, enrichment, processing, and decision workflows. I focus on building scalable, end-to-end systems that connect data, AI, and automation to solve practical business problems.
 
 <a href="mailto:madhum3014@gmail.com"><img src="https://img.shields.io/badge/Email-madhum3014%40gmail.com-4A9B8E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/madhu-mardoor"><img src="https://img.shields.io/badge/LinkedIn-madhu--mardoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -39,8 +39,8 @@ class MadhuM:
 
 ## ⚡ What I'm working on
 
-- 🔭 **RoseAI** — a multimodal listing-automation pipeline (BERT, CLIP, faster-whisper) that auto-fills property listings from text, voice, or photo/video, cutting API costs by 80%+ while staying under $50/month at 2,000 listings/day
-- 🌍 **Coworking Market Map** — a PostgreSQL/PostGIS geospatial layer mapping coworking operators, buildings, and tenants across Indian markets (4,200+ mapped records and counting)
+- 🔭 **RoseAI** - a multimodal listing-automation pipeline (BERT, CLIP, faster-whisper) that auto-fills property listings from text, voice, or photo/video, cutting API costs by 80%+ while staying under $50/month at 2,000 listings/day
+- 🌍 **Coworking Market Map** - a PostgreSQL/PostGIS geospatial layer mapping coworking operators, buildings, and tenants across Indian markets (4,200+ mapped records and counting)
 - 🤖 An AI-powered market-expansion pipeline using **LangChain agents (Gemini, Groq)** that scans real-time news to auto-enrich and qualify leads
 - 🕸️ Async Python scrapers (Selenium, Playwright, BeautifulSoup) processing 200,000+ property, realtor, and business records with checkpoint/resume + dedup logic
 
@@ -53,6 +53,7 @@ class MadhuM:
 **AI / Automation**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logo=databricks&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
@@ -113,16 +114,28 @@ class MadhuM:
 <br>
 
 <details>
-<summary>🧩 <strong>Featured Projects</strong> — click to expand</summary>
+<summary>🧩 <strong>Featured Projects</strong> - click to expand</summary>
 <br>
 
 **🌍 Coworking Market Map**
 Python + Apify pipeline building a PostGIS geospatial layer discovering and mapping coworking operators, buildings, and tenants across major Indian markets. Built for future spatial filtering and location-based BI.
 `PostgreSQL` `PostGIS` `Apify` `Python`
 
-**🏠 RoseAI — Listing Automation**
+**🏠 RoseAI - Listing Automation**
 Multimodal AI pipeline auto-filling property listings from owner text, voice, or photo/video using a three-tier confidence system and cost-optimized Gemini fallback routing.
 `BERT` `CLIP` `Whisper` `Gemini`
+
+**🏢 Coworking Tenant Discovery System**
+A production data-cleaning and entity-resolution pipeline that discovers and verifies real coworking-space tenants from noisy web/Maps data across Indian cities. Built multi-tier relationship classification (Confirmed/Probable/Unknown), brand-aware operator/branch extraction, category-based filtering (cafes, government offices, real-estate listings excluded), and a grouped Excel export - refined through 17+ iterative fixes against real discovery runs.
+`Python` `Entity Resolution` `Google Maps API` `Serper API` `Excel Automation`
+
+**🏙️ AI Office Demand Intelligence Platform**
+A production-grade agentic RAG system that identifies companies likely to need additional office space by combining structured company data, hiring signals, funding news, and geospatial coworking data. Architecture includes a query router (PostgreSQL vs PostGIS vs vector search vs web search), LangChain agents with restricted read-only tool access, hybrid retrieval with reranking, and a transparent (non-black-box) signal-scoring engine that separates fact / signal / inference.
+`FastAPI` `LangChain` `pgvector` `PostGIS` `RAG` `Agentic AI`
+
+**🧪 5 AI QA Agents Suite**
+Five standalone QA automation agents, each with a zero-key mock mode (real algorithmic logic, not stubs) and a live mode wired to Jira, Jenkins, TestRail, OWASP ZAP, Slack, GitHub, and Playwright: a test-case generator, a self-healing locator agent (DOM similarity scoring), a CI log/bug analyzer, an API functional + security testing agent, and a visual-regression + WCAG accessibility checker.
+`Python` `Playwright` `OWASP ZAP` `Claude/GPT` `CI/CD`
 
 **🌾 AgriVoice**
 Voice-first AI assistant with regional-language NLP and speech-recognition pipelines delivering farming guidance to Indian farmers in their own vernacular language.
@@ -148,13 +161,13 @@ Built automated BI dashboards analyzing 200,000+ records across operational, HR,
 
 ## 🎓 Education & Certifications
 
-- 🎓 M.Sc. Data Science — Alliance University, Bengaluru (CGPA 7.7/10)
-- 🎓 B.Sc. Mathematics, Electronics & Physics — Vivekananda Degree College (CGPA 8.43/10)
-- 📜 IBM — Generative AI with Python
-- 📜 Microsoft — Azure Data Lake and Streaming Analytics
-- 📜 Coursera — Data Structures
-- 📜 Tata Group — Data Visualization
-- 📜 CBAP — Business Analysis
+- 🎓 M.Sc. Data Science - Alliance University, Bengaluru (CGPA 7.7/10)
+- 🎓 B.Sc. Mathematics, Electronics & Physics - Vivekananda Degree College (CGPA 8.43/10)
+- 📜 IBM - Generative AI with Python
+- 📜 Microsoft - Azure Data Lake and Streaming Analytics
+- 📜 Coursera - Data Structures
+- 📜 Tata Group - Data Visualization
+- 📜 CBAP - Business Analysis
 
 <br>
 
@@ -175,11 +188,10 @@ Built automated BI dashboards analyzing 200,000+ records across operational, HR,
 
 <div align="center">
 
-I'm open to **AI Engineering** and **Data Engineering** roles — happy to talk pipelines, LLM orchestration, or geospatial data over a call.
+I'm open to **AI Engineering** and **Data Engineering** roles - happy to talk pipelines, LLM orchestration, or geospatial data over a call.
 
 <a href="mailto:madhum3014@gmail.com"><img src="https://img.shields.io/badge/Email_me-4A9B8E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/madhu-mardoor"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="tel:+919844032523"><img src="https://img.shields.io/badge/Call-%2B91_98440_32523-C9713D?style=for-the-badge&logo=phone&logoColor=white" /></a>
 
 <br><br>
 
