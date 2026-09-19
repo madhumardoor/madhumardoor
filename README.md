@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=26&duration=3000&pause=800&color=4A9B8E&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Building+pipelines+that+run+themselves;LangChain+%C2%B7+RAG+%C2%B7+n8n+%C2%B7+Gemini+%C2%B7+Groq;PostgreSQL+%2F+PostGIS+%C2%B7+ETL+%C2%B7+Web+Scraping;350K%2B+records+automated+%C2%B7+90%25+manual+work+cut" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&duration=3000&pause=800&color=4A9B8E&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Building+pipelines+that+run+themselves;LangChain+%C2%B7+RAG+%C2%B7+n8n+%C2%B7+Gemini+%C2%B7+Groq;PostgreSQL+%2F+PostGIS+%C2%B7+ETL+%C2%B7+Web+Scraping;350K%2B+records+automated+%C2%B7+90%25+manual+work+cut" alt="Typing SVG" />
 
 ### Hi, I'm Madhu 👋 — AI Engineer & Data Engineer based in Bengaluru, India
 
