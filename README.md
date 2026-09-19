@@ -1,18 +1,188 @@
-# 💫 About Me:
-# Madhu M — Portfolio<br><br>Personal portfolio site for **Madhu M**, AI Engineer & Data Engineer based in Bengaluru, India.<br><br>🔗 **Live site:** [madhumardoor.github.io](https://madhumardoor.github.io) *(after Pages is enabled — see below)*<br><br>## About<br><br>This single-page site covers:<br>- **About** — background as an AI/Data Engineer working on LLM automation and geospatial pipelines<br>- **Experience** — Login Realty (AI Engineer) and Analytics Career Connect (Data Analyst Intern)<br>- **Projects** — RoseAI, Coworking Market Map (PostGIS), AgriVoice, Equestrian Analytics Dashboard<br>- **Skills** — AI/automation, data & geospatial, ML/GenAI, scraping, BI, languages & tools<br>- **Education & Certifications**<br>- **Contact** — email, phone, LinkedIn, GitHub<br><br>## Tech<br><br>Built as a single self-contained `index.html` — no build step, no dependencies beyond Google Fonts:<br>- Vanilla HTML/CSS/JS<br>- Fonts: Space Grotesk, IBM Plex Mono, Inter<br>- Inline SVG for the animated pipeline diagram in the hero<br><br>## Running locally<br><br>Just open `index.html` in a browser — no server or build tools required.<br><br>```bash<br>git clone https://github.com/madhumardoor/madhumardoor.github.io.git<br>cd madhumardoor.github.io<br>open index.html   # or double-click the file<br>```<br><br>## Deploying with GitHub Pages<br><br>1. Create a repo named exactly `madhumardoor.github.io`<br>2. Push this `index.html` (and this `README.md`) to the `main` branch<br>3. Go to **Settings → Pages**, set source to `main` / `/ (root)`<br>4. Your site will be live at `https://madhumardoor.github.io` within a few minutes<br><br>## Editing content<br><br>All content lives directly in `index.html` — resume details, project descriptions, and skills are plain text/markup, no CMS or data file to manage. Update the relevant `<section>` block and commit.<br><br>## Contact<br><br>- Email: [madhum3014@gmail.com](mailto:madhum3014@gmail.com)<br>- LinkedIn: [linkedin.com/in/madhu-mardoor](https://linkedin.com/in/madhu-mardoor)<br>- GitHub: [github.com/madhumardoor](https://github.com/madhumardoor)<br><br>---<br><br>© 2026 Madhu M
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=26&duration=3000&pause=800&color=4A9B8E&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Building+pipelines+that+run+themselves;LangChain+%C2%B7+RAG+%C2%B7+n8n+%C2%B7+Gemini+%C2%B7+Groq;PostgreSQL+%2F+PostGIS+%C2%B7+ETL+%C2%B7+Web+Scraping;350K%2B+records+automated+%C2%B7+90%25+manual+work+cut" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhumardoor30@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumardoor30@gmail.com) 
+### Hi, I'm Madhu 👋 — AI Engineer & Data Engineer based in Bengaluru, India
 
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=madhumardoor&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=madhumardoor&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=madhumardoor&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build LLM-powered automation systems, ETL pipelines, and geospatial data layers that turn messy real-world data into structured, production-ready systems — with almost no manual touch.
 
----
-[![](https://komarev.com/ghpvc/?username=madhumardoor&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="mailto:madhum3014@gmail.com"><img src="https://img.shields.io/badge/Email-madhum3014%40gmail.com-4A9B8E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/madhu-mardoor"><img src="https://img.shields.io/badge/LinkedIn-madhu--mardoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://madhumardoor.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-C9713D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br>
+
+## 🧠 About
+
+```python
+class MadhuM:
+    def __init__(self):
+        self.role = "AI Engineer @ Login Realty"
+        self.location = "Bengaluru, Karnataka, India"
+        self.focus = ["LLM Orchestration", "ETL Pipelines", "Geospatial Data (PostGIS)"]
+        self.education = "M.Sc. Data Science, Alliance University"
+        self.currently_building = "PostGIS layer mapping coworking spaces across India"
+        self.status = "open_to_relocate = True"
+
+    def get_impact(self):
+        return {
+            "workflows_shipped": "10+",
+            "records_processed": "350,000+",
+            "manual_work_cut": "90%",
+            "lead_turnaround_improvement": "70%"
+        }
+```
+
+<br>
+
+## ⚡ What I'm working on
+
+- 🔭 **RoseAI** — a multimodal listing-automation pipeline (BERT, CLIP, faster-whisper) that auto-fills property listings from text, voice, or photo/video, cutting API costs by 80%+ while staying under $50/month at 2,000 listings/day
+- 🌍 **Coworking Market Map** — a PostgreSQL/PostGIS geospatial layer mapping coworking operators, buildings, and tenants across Indian markets (4,200+ mapped records and counting)
+- 🤖 An AI-powered market-expansion pipeline using **LangChain agents (Gemini, Groq)** that scans real-time news to auto-enrich and qualify leads
+- 🕸️ Async Python scrapers (Selenium, Playwright, BeautifulSoup) processing 200,000+ property, realtor, and business records with checkpoint/resume + dedup logic
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / Automation**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Databases & Geospatial**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-008B8B?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML / GenAI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Scraping & Automation**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-00C0F3?style=flat-square&logo=apify&logoColor=white)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 Impact Snapshot
+
+<div align="center">
+
+| Metric | Value |
+|---|---|
+| 🔁 Production workflows shipped | **10+** |
+| 📦 Records processed | **350,000+** |
+| ✂️ Manual data entry reduced | **90%** |
+| ⚡ Lead-generation turnaround improved | **70%** |
+| 🗺️ Buildings mapped (geospatial layer) | **4,273+** |
+
+</div>
+
+<br>
+
+<details>
+<summary>🧩 <strong>Featured Projects</strong> — click to expand</summary>
+<br>
+
+**🌍 Coworking Market Map**
+Python + Apify pipeline building a PostGIS geospatial layer discovering and mapping coworking operators, buildings, and tenants across major Indian markets. Built for future spatial filtering and location-based BI.
+`PostgreSQL` `PostGIS` `Apify` `Python`
+
+**🏠 RoseAI — Listing Automation**
+Multimodal AI pipeline auto-filling property listings from owner text, voice, or photo/video using a three-tier confidence system and cost-optimized Gemini fallback routing.
+`BERT` `CLIP` `Whisper` `Gemini`
+
+**🌾 AgriVoice**
+Voice-first AI assistant with regional-language NLP and speech-recognition pipelines delivering farming guidance to Indian farmers in their own vernacular language.
+`NLP` `Speech-to-Text` `Vernacular`
+
+**🐎 Equestrian Analytics Dashboard**
+Multi-page Power BI dashboard modeling dressage-horse performance and event data for stakeholder reporting.
+`Power BI` `DAX`
+
+</details>
+
+<br>
+
+## 💼 Experience
+
+**AI Engineer** @ Login Realty · *Feb 2026 – Present* · Bengaluru, India
+Architecting production n8n workflows, LangChain agent pipelines, async scrapers, and a PostGIS geospatial data layer.
+
+**Data Analyst Intern** @ Analytics Career Connect · *Nov 2025 – Feb 2026* · Remote
+Built automated BI dashboards analyzing 200,000+ records across operational, HR, and financial metrics.
+
+<br>
+
+## 🎓 Education & Certifications
+
+- 🎓 M.Sc. Data Science — Alliance University, Bengaluru (CGPA 7.7/10)
+- 🎓 B.Sc. Mathematics, Electronics & Physics — Vivekananda Degree College (CGPA 8.43/10)
+- 📜 IBM — Generative AI with Python
+- 📜 Microsoft — Azure Data Lake and Streaming Analytics
+- 📜 Coursera — Data Structures
+- 📜 Tata Group — Data Visualization
+- 📜 CBAP — Business Analysis
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=madhumardoor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A9B8E&icon_color=C9713D&text_color=E8E6DF&border_color=2A313C" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=madhumardoor&theme=radical&hide_border=true&background=0D1117&ring=4A9B8E&fire=C9713D&currStreakLabel=4A9B8E&sideLabels=E8E6DF&currStreakNum=E8E6DF&sideNums=E8E6DF&dates=8B93A1" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumardoor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A9B8E&text_color=E8E6DF" width="40%" />
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **AI Engineering** and **Data Engineering** roles — happy to talk pipelines, LLM orchestration, or geospatial data over a call.
+
+<a href="mailto:madhum3014@gmail.com"><img src="https://img.shields.io/badge/Email_me-4A9B8E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/madhu-mardoor"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="tel:+919844032523"><img src="https://img.shields.io/badge/Call-%2B91_98440_32523-C9713D?style=for-the-badge&logo=phone&logoColor=white" /></a>
+
+<br><br>
+
+![Profile views](https://komarev.com/ghpvc/?username=madhumardoor&color=4A9B8E&style=flat-square&label=Profile+Views)
+
+</div>
