@@ -1,0 +1,24 @@
+<svg width="1200" height="16" viewBox="0 0 1200 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#00F0FF" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#3DA9FC" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#00F0FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="7" width="1200" height="2" fill="url(#lineGrad)" filter="url(#glow)"/>
+  <circle cx="120" cy="8" r="2.2" fill="#00F0FF" filter="url(#glow)"/>
+  <circle cx="340" cy="8" r="1.6" fill="#90E0EF" filter="url(#glow)"/>
+  <circle cx="600" cy="8" r="2.6" fill="#FFFFFF" filter="url(#glow)"/>
+  <circle cx="860" cy="8" r="1.6" fill="#90E0EF" filter="url(#glow)"/>
+  <circle cx="1080" cy="8" r="2.2" fill="#00F0FF" filter="url(#glow)"/>
+</svg>
