@@ -178,18 +178,6 @@ Auto-fills property listings from owner-submitted text, voice, or photo/video us
 
 <img src="https://raw.githubusercontent.com/madhumardoor/madhumardoor/main/assets/divider-spark.svg" width="100%" />
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=madhumardoor&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=3DA9FC&text_color=90E0EF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumardoor&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=90E0EF" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhumardoor&theme=dark&hide_border=true&background=00000000&ring=00F0FF&fire=3DA9FC&currStreakLabel=00F0FF" />
-
-</div>
 
 ### 🐍 Contribution Snake
 
