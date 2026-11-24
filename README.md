@@ -43,7 +43,7 @@ currently_building: "AI Office Demand Intelligence Platform — agentic RAG + Po
 experience:          "1+ years shipping 10+ production AI/data workflows"
 impact:              "90% reduction in manual ops · 70% faster lead-gen turnaround · 350K+ records processed"
 education:           "M.S. Data Science, Alliance University (CGPA 7.7/10)"
-ask_me_about:        [n8n automation, LangChain agents, RAG evaluation, geospatial SQL, web scraping at scale]
+ask_me_about:        [n8n automation, LangChain agents, RAG evaluation, geospatial SQL, web scraping at scale,database]
 ```
 
 <img src="https://raw.githubusercontent.com/madhumardoor/madhumardoor/main/assets/divider-spark.svg" width="100%" />
